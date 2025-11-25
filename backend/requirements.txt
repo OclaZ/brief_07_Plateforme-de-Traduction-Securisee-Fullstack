@@ -1,0 +1,7 @@
+sqlalchemy
+fastapi
+uvicorn
+asyncpg
+psycopg2
+dotenv
+requests
